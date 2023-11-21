@@ -34,15 +34,7 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 
 <!--Por hoje é isso pessoal-->
