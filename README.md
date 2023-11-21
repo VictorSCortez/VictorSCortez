@@ -10,12 +10,12 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
   <img align="right" alt="GIF" src=https://github.com/VictorSCortez/VictorSCortez/assets/151647997/57deb166-547c-46a8-a803-cecd87e50e45 width="450" />
   
 <h1 align="center">linguagens</h1>
-
+<div align="center"> 
 <code><img height="20" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png></code>
 <code><img height="20" align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png></code>
 <code><img height="20" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
+</div>
 
 <!--Por hoje é isso pessoal-->
  
