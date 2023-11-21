@@ -12,6 +12,16 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
   </br>
   </br>
   </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
   
 <h3 align="center">Skills</h3>
 <div align="center"> 
