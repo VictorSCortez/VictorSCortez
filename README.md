@@ -7,7 +7,7 @@ Atualmente, estou imerso no universo da programação, apaixonado por desafios e
 O que Faço
 Como desenvolvedor backend, mergulho nas entranhas do código para criar sistemas escaláveis e eficientes. Trabalho com tecnologias modernas para garantir que as aplicações que construo não apenas atendam, mas superem as expectativas em termos de funcionalidade e experiência do usuário.
 
-  <img align="right" alt="GIF" src="https://github.com/VictorSCortez/VictorSCortez/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/VictorSCortez/VictorSCortez/blob/master/code.gif?raw=true" width="0" height="0" />
   
 **linguagens:**  
 
