@@ -19,6 +19,6 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
 
 <!--Por hoje é isso pessoal-->
  
-📈 my github stats
+📈 meus status
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VictorSCortez&show_icons=true&theme=gotham" alt="VictorSCortez" />
