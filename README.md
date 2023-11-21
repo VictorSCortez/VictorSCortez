@@ -21,5 +21,7 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
 
 
 <!--Por hoje é isso pessoal-->
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorSCortez&show_icons=true&theme=gotham" width="49%" height="195px" />
+</div><br><br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VictorSCortez&show_icons=true&theme=gotham" alt="VictorSCortez" />
