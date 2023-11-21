@@ -17,7 +17,11 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
 <code><img height="20" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </div>
 </br>
-
+<div style="display: inline_block">
+        <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
+    </a></a>
+</div>
 
 <!--Por hoje é isso pessoal-->
 
