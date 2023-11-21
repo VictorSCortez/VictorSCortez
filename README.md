@@ -9,7 +9,7 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
 
   <img align="right" alt="GIF" src=https://github.com/VictorSCortez/VictorSCortez/assets/151647997/57deb166-547c-46a8-a803-cecd87e50e45 width="450" />
   
-<h1 align="center">linguagens</h1>
+<h1 align="center">Skills</h1>
 <div align="center"> 
 <div style="display: inline_block">
       <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
