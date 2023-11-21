@@ -12,7 +12,6 @@ Como desenvolvedor backend, mergulho nas entranhas do código para criar sistema
 <h1 align="center">linguagens</h1>
 <div align="center"> 
 <div style="display: inline_block">
-        <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
     </a></a>
 </div>
