@@ -1,43 +1,18 @@
-Bem-vindo ao meu Perfil!</br>
-Olá, sou o Victor, um entusiasta de 21 anos no mundo do desenvolvimento backend. 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1500&lines=Olá%2C+Meu+Nome+é+Victor+Cortez;tenho+21+anos;sou+um+entusiasta+do+desenvolvimento+backend;Bem-vindo+ao+meu+Perfil+:%29)](https://git.io/typing-svg)
 
-Sobre Mim
-Atualmente, estou imerso no universo da programação, apaixonado por desafios e sempre em busca de soluções inovadoras. Com uma mente curiosa e foco no desenvolvimento de aplicações robustas, estou constantemente aprimorando minhas habilidades para oferecer o melhor em termos de eficiência e desempenho.
+<div align="center"> 
+  <img alt="GIF" src="https://github.com/VictorSCortez/VictorSCortez/assets/151647997/57deb166-547c-46a8-a803-cecd87e50e45" width="500" style="border-radius: 10px;" />
+</div>
 
-O que Faço
-Como desenvolvedor backend, mergulho nas entranhas do código para criar sistemas escaláveis e eficientes. Trabalho com tecnologias modernas para garantir que as aplicações que construo não apenas atendam, mas superem as expectativas em termos de funcionalidade e experiência do usuário.
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=VictorSCortez&show_icons=true&count_private=true&hide_border=true&title_color=FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSCortez&layout=compact&hide_border=true&title_color=FFFF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-  <img align="right" alt="GIF" src=https://github.com/VictorSCortez/VictorSCortez/assets/151647997/57deb166-547c-46a8-a803-cecd87e50e45 width="500" />
-  
-  
 <h3 align="center">Skills</h3>
 <div align="center"> 
-<div style="display: inline_block">
-      <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
-    </a></a>
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql" alt="Skills Icons" />
 </div>
-</div>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 
 
 <!--Por hoje é isso pessoal-->
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSCortez&show_icons=true&theme=gotham" width="49%" height="195px" />
-</div><br><br>
-
