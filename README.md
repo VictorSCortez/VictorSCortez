@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1500&lines=Olá%2C+Meu+Nome+é+Victor+Cortez;tenho+22+anos;sou+um+entusiasta+do+desenvolvimento+backend;Bem-vindo+ao+meu+Perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1500&lines=Olá%2C+Meu+Nome+é+Victor+Cortez;tenho+23+anos;sou+um+entusiasta+do+desenvolvimento+backend;Bem-vindo+ao+meu+Perfil+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
   <img alt="GIF" src="https://github.com/VictorSCortez/VictorSCortez/assets/151647997/57deb166-547c-46a8-a803-cecd87e50e45" width="500" style="border-radius: 10px;" />
